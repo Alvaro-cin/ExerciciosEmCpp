@@ -1,0 +1,1 @@
+     cout << "Aqui esta o somatorio de  B:  " << cont;

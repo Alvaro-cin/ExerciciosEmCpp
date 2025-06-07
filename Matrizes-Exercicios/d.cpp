@@ -22,4 +22,5 @@ int main()
         cout << c[i][0] << " " << c[i][1] << " " << c[i][2];
         cout << endl;
     }
+
 }

@@ -4,17 +4,17 @@ void maior(int a, int b, int c)
 {
     if (a > b && a > c)
     {
-        cout << "O maoir numero e: " << a << endl;
+        cout << "O maior numero e: " << a << endl;
     }
     else
     {
         if (b > a && b > c)
         {
-            cout << "O maoir numero e: " << b << endl;
+            cout << "O maior numero e: " << b << endl;
         }
         else
         {
-            cout << "O maoir numero e: " << c << endl;
+            cout << "O maior numero e: " << c << endl;
         }
     }
 }
